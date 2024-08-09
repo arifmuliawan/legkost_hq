@@ -1,5 +1,5 @@
 <?php
-include('config.php');
+include('template/config.php');
 $timenow    = date("Y-m-d H:i:s");
 if(isset($_COOKIE['username']) && isset($_COOKIE['token']))
 {
