@@ -1,0 +1,53 @@
+.dropzone
+{
+    padding : 20px 20px;
+}
+
+.dropzone.dz-clickable
+{
+    text-align: center;
+}
+
+#uploadbanner .dz-preview .dz-image
+{
+    width: 500px;
+    height: 190px;
+}
+
+#formaddparoki
+{
+    padding : 0 !important;
+}
+
+#formaddparoki .dz-preview
+{
+    margin: 0 !important;
+}
+            
+#formaddparoki .dz-preview .dz-image
+{
+    width: 150px;
+    height: 150px;
+}
+
+#formdetailparoki
+{
+    padding : 0 !important;
+}
+
+#formdetailparoki .dz-preview
+{
+    margin: 0 !important;
+}
+            
+#formdetailparoki .dz-preview .dz-image
+{
+    width: 150px;
+    height: 150px;
+}
+
+#formuploadkregisimg .dz-preview .dz-image
+{
+    width: 150px;
+    height: 150px;
+}
